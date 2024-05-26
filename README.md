@@ -18,7 +18,7 @@
         * 9.5 Hrs
             * Airbnbs
                 [Aksarben Bungalow](https://www.airbnb.com/rooms/1153005357914651906?adults=2&pets=2&search_mode=regular_search&check_in=2024-05-30&check_out=2024-05-31&source_impression_id=p3_1716741983_d2RrHl2I%2Fl8LBphx&previous_page_section_name=1000&federated_search_id=3ad6a40c-bea0-4334-b6c8-8eb3d52253cd)
-                    * $194
+                      * $194
             * Hotels
                 [Comfort Suites](https://www.bookonline.com/hotel/comfort-suites-council-bluffs?msclkid=425f478360a9149ce8eb21d0014f5e50)
                     * $95
